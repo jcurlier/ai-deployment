@@ -1,0 +1,13 @@
+# images
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+# models
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.pb filter=lfs diff=lfs merge=lfs -text
+variables.index filter=lfs diff=lfs merge=lfs -text
+*structure.json filter=lfs diff=lfs merge=lfs -text
+variables.data* filter=lfs diff=lfs merge=lfs -text
+# logs
+events.out.* filter=lfs diff=lfs merge=lfs -text
+*.iso filter=lfs diff=lfs merge=lfs -text

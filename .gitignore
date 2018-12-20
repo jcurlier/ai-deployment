@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+jupyterhub.sqlite
+jupyterhub_cookie_secret
+
+# credentials
+credentials.json
