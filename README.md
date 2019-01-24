@@ -1,4 +1,4 @@
-# GDE AI Deployment Research
+# AI Deployment Research
 
 ## Installation
 
